@@ -1,0 +1,23 @@
+.texto{
+    font-family: Helvetica Neue 12px/18px;
+    text-align: left;
+    color: rgba(111, 106, 106, 0.825);
+
+}
+h1{
+    font-family: Helvetica Neue 12px/18px;
+    color: rgba(111, 106, 106, 0.825);
+}
+.text{
+    top: 473px;
+left: 290px;
+width: 600px;
+height: 250px;
+
+text-align: left;
+font: normal normal normal 20px/20px Helvetica Neue;
+letter-spacing: 0px;
+
+
+    
+} 
