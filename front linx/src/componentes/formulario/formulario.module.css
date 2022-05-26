@@ -1,0 +1,22 @@
+.buton2{
+    border-radius: 10px;
+  
+}
+.form{
+top: 0px;
+
+text-align:left;
+width: 300px;
+height: 200px;
+background:  0% 0% no-repeat padding-box;
+opacity: 1;
+justify-content: flex-end;
+display: flex;
+flex-direction: column;
+margin: 2rem 0;
+border:hidden;
+
+}
+input{
+    margin-bottom: 15px;
+}

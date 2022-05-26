@@ -2,18 +2,47 @@
     font-family: Helvetica Neue 12px/18px;
     text-align: left;
     color: rgba(111, 106, 106, 0.825);
+    display: inline;
 
 }
 h1{
     font-family: Helvetica Neue 12px/18px;
     color: rgba(111, 106, 106, 0.825);
 }
+.texto1{
+   
+    width: 520px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+   
+  
+
+}
+.form1{ 
+    
+    margin-top: 15%;
+
+
+}
+.divisoria{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30%;
+    width: 1000px;
+ 
+
+}
+p{
+    padding-bottom: 5px;
+   
+}
 .text{
-    top: 473px;
+    top: 0px;
 left: 290px;
 width: 600px;
-height: 250px;
-
+height: 200px;
+justify-content: center;
 text-align: left;
 font: normal normal normal 20px/20px Helvetica Neue;
 letter-spacing: 0px;

@@ -1,13 +1,16 @@
-button{
-    background-color: white;
+ button{
+    background-color: rgb(239, 219, 221);
     color:rgba(111, 106, 106, 0.825);
     justify-content: space-around;
     display: inline;
     grid-template-columns: 1rf 1rf;
     column-gap: 10px;
     margin: 0 15px;
-    border-radius: 5px;
-    border-style: none;            
+    border-radius:5px;
+    box-shadow:  1.5px 1.5px 1.5px 1.5px rgba(111, 106, 106, 0.825) ;
+    
+    border-style: none;  
+    cursor: pointer;          
   
 
 
